@@ -8,6 +8,15 @@
 
 [Godot C#](https://github.com/VarionDrakon/YouTube_Tutorial/tree/master/GodotEngine)
 
+Ссылки на готовые анимации CSS/JS | Links to ready-made CSS/JS animations:
+
+* [Digital clock on JS | Цифровые часы на JS](https://codepen.io/varion-drakon/pen/YzwKpBR)
+* [Particle.js](https://codepen.io/varion-drakon/pen/QWyqbjG)
+* [Neon Frame | Неоновая рамка](https://codepen.io/varion-drakon/pen/wvKZKZN)
+* [Creating an Animated 404 Page | Создание анимированной страницы 404](https://codepen.io/varion-drakon/pen/VweEoYz)
+* [Text typography for any image| Типография текста на любое изображение](https://codepen.io/varion-drakon/pen/XWXvmJr)
+
+
 ____
 
 Мои места обитания: | My habitats: 
