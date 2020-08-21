@@ -8,6 +8,10 @@ ___
 
 [Godot C#](https://github.com/VarionDrakon/YouTube_Tutorial/tree/master/GodotEngine)
 
+Ветка по C# | Branch by C#:
+
+[C#](https://github.com/VarionDrakon/YouTube_Tutorial/tree/master/C%23)
+
 Ссылки на готовые анимации CSS/JS | Links to ready-made CSS/JS animations:
 
 * [Digital clock on JS | Цифровые часы на JS](https://codepen.io/varion-drakon/pen/YzwKpBR)
