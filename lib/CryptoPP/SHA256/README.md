@@ -14,7 +14,7 @@ EN:
 How to use this example?
 
 * Several factors are necessary to run this code, the first is the IDE or the compiler [`Clang`](https://clang.llvm.org/get_started.html ), as in the case described here, it is necessary to start with an installed compiler and a part-time debugger [`LLDB`](https://lldb.llvm.org/resources/build.html ) and the `C++17` version, as high as possible, as low as possible, as well as `Visual Studio` and its compiler for compiling the `CryptoPP` project.
-* Inside the `YouTube archive.VSCode.CryptoPP.MinUseExmp.zip` files `launch.json` and `tasks.json` are already present to run the code in the `VSCode` environment. 
+* Inside the `YouTube.VSCode.CryptoPP.MinUseExmp.zip` files `launch.json` and `tasks.json` are already present to run the code in the `VSCode` environment. 
 * This code runs on `Windows 11` and the `Clang compiler version 17.0.6`, it has not been tested on other systems. 
 * The next factor is the need to compile the entire library `cryptlib.lib` in `Visual Studio`, but since not everyone has the desire to compile, there will also be a ready-made version of the library in the `Release` state in the archive. 
 * Additionally, if you use `VSCode` and some plugins to work with `Clang` and `C++`, then the `Unsupported configuration` error may occur due to the plugins, and you need to correct it in the `config_os` file line `33` from `Error` to `Warning`. There is also this corrected file inside the archive, but it is for the `CryptoPP 8.9.0` version.
